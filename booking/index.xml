@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bookings on Уфимский визовый центр Виза-Уфа</title>
+    <link>http://www.visa102.ru/booking/</link>
+    <description>Recent content in Bookings on Уфимский визовый центр Виза-Уфа</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Fri, 20 Feb 2015 14:31:56 +0500</lastBuildDate>
+    <atom:link href="http://www.visa102.ru/booking/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Бронирование билетов</title>
+      <link>http://www.visa102.ru/booking/tickets/</link>
+      <pubDate>Fri, 20 Feb 2015 14:31:56 +0500</pubDate>
+      
+      <guid>http://www.visa102.ru/booking/tickets/</guid>
+      <description>&lt;p&gt;&lt;div id=&#34;agentruIframeWrapper&#34;&gt;&lt;/div&gt;
+&lt;script id=&#34;agentruIframeScript&#34; type=&#34;text/javascript&#34; src=&#34;https://www.agent.ru/ru/script/iframe?name=visahundredotwo&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

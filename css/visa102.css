@@ -1,0 +1,86 @@
+.masthead{
+	padding-top: 30px;
+	padding-bottom: 30px;
+	color: #333a67;
+	background-color: #ffffff;
+}
+
+.nikanavbar{
+	background-color: #337ab7;
+}
+
+.nikanavbar li:hover{
+	background-color: #034a87;
+}
+
+.navbar-inverse .navbar-nav li a{
+	color: #ffffff;
+}
+
+.glyphicon{
+	color: #337ab7;
+}
+
+.navbar{
+	background-color:  #337ab7;
+	color:#ffffff;
+	margin-bottom:0px;
+	border-radius: 0px;
+	border-width: 0px;
+}
+
+ .dropdown-menu, .dropdown-menu>a:hover{
+ 	background-color: #337ab7;
+ 	color:#ffffff;
+ }
+
+.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:focus, .navbar-inverse .navbar-nav>.open>a:hover{
+ 	background-color: #034a87;
+ 	color:#ffffff;
+ }
+
+.navbar-inverse .navbar-collapse,.navbar-inverse .navbar-form{
+ 	background-color: #437ab7;
+ 	color:#ffffff;
+ }
+
+.country{
+	margin-top: 5px;
+}
+
+.nikasborders {
+	margin-left: 140px;
+	margin-right: 140px;
+}
+
+body{
+	background-color: #CFE5FA;
+}
+
+.footer{
+	margin-left: 140px;
+	margin-right: 140px;
+	color: #353535;
+	padding-top: 30px;
+
+}
+
+table, th, td {
+	border: 1px solid black;
+}
+
+td, th{
+	padding: 5px;
+}
+
+.contentus{
+	background-color: #ffffff;
+	padding-bottom: 55px;
+}
+
+
+@media (max-width: 1000px) { 
+  .le-sidebar{
+  	display: none;
+  }
+}
