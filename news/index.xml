@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on Уфимский визовый центр Виза-Уфа</title>
-    <link>http://www.visa102.ru/news/</link>
+    <link>http://localhost:1313/news/</link>
     <description>Recent content in News on Уфимский визовый центр Виза-Уфа</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     <lastBuildDate>Sun, 04 Oct 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.visa102.ru/news/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/news/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Обновилось описание иммиграционных программ и список требований на визу для Канады</title>
-      <link>http://www.visa102.ru/news/canada/</link>
+      <link>http://localhost:1313/news/canada/</link>
       <pubDate>Sun, 04 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://www.visa102.ru/news/canada/</guid>
-      <description>&lt;p&gt;На сайте было обновлено &lt;a href=&#34;http://www.visa102.ru/countries/canada&#34;&gt;описание иммиграционных программ и список требований на визу для Канады&lt;/a&gt;.&lt;/p&gt;
+      <guid>http://localhost:1313/news/canada/</guid>
+      <description>&lt;p&gt;На сайте было обновлено &lt;a href=&#34;http://localhost:1313/countries/canada&#34;&gt;описание иммиграционных программ и список требований на визу для Канады&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Вводится обязательная личная сдача отпечатков пальцев для всех стран Шенгена</title>
-      <link>http://www.visa102.ru/news/fingerprints/</link>
+      <link>http://localhost:1313/news/fingerprints/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://www.visa102.ru/news/fingerprints/</guid>
+      <guid>http://localhost:1313/news/fingerprints/</guid>
       <description>&lt;p&gt;С 14 сентября 2015 года, все заявители, запрашивающие шенгенскую визу, должны пройти обязательную процедуру сканирования отпечатков пальцев. В связи с этим каждый заявитель должен явиться на подачу документов в консульство или визовый центр страны лично (кроме детей до 12 лет).&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Наш новый офис по адресу г. Уфа, ул. Цюрупы, д. 124</title>
-      <link>http://www.visa102.ru/news/new-office/</link>
+      <link>http://localhost:1313/news/new-office/</link>
       <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://www.visa102.ru/news/new-office/</guid>
+      <guid>http://localhost:1313/news/new-office/</guid>
       <description>&lt;p&gt;Мы переехали в новый офис по адресу г. Уфа, ул. Цюрупы, д. 124.
-&lt;a href=&#34;http://www.visa102.ru/home/contact&#34;&gt;Детальные инструкции&lt;/a&gt; как проехать можно найти на странице &lt;a href=&#34;http://www.visa102.ru/home/contact&#34;&gt;Контакты&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;http://localhost:1313/home/contact&#34;&gt;Детальные инструкции&lt;/a&gt; как проехать можно найти на странице &lt;a href=&#34;http://localhost:1313/home/contact&#34;&gt;Контакты&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Engs on Уфимский визовый центр Виза-Уфа</title>
-    <link>http://www.visa102.ru/eng/</link>
+    <link>http://localhost:1313/eng/</link>
     <description>Recent content in Engs on Уфимский визовый центр Виза-Уфа</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     <lastBuildDate>Fri, 20 Feb 2015 14:31:56 +0500</lastBuildDate>
-    <atom:link href="http://www.visa102.ru/eng/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/eng/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Services in translations between Russian, English, French and German languages</title>
-      <link>http://www.visa102.ru/eng/translations/</link>
+      <link>http://localhost:1313/eng/translations/</link>
       <pubDate>Fri, 20 Feb 2015 14:31:56 +0500</pubDate>
       
-      <guid>http://www.visa102.ru/eng/translations/</guid>
+      <guid>http://localhost:1313/eng/translations/</guid>
       <description>&lt;p&gt;Ufa-Visa offers professional translation services for &lt;strong&gt;English&lt;/strong&gt;, &lt;strong&gt;Russian&lt;/strong&gt;, &lt;strong&gt;French&lt;/strong&gt; and &lt;strong&gt;German&lt;/strong&gt; languages. We also provide document translations, certified with a notary public, which can be used for legal purposes.&lt;/p&gt;
 
 &lt;p&gt;While our prices vary depending on the character &amp;amp; complexity of the text, our rates are extremely competitive:&lt;/p&gt;
@@ -35,16 +35,16 @@
 &lt;li&gt;or via ph: +7(917)7804237&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Or visit us in person at &lt;strong&gt;124 Tsurupy St, Ufa, Bashkortostan (region), Russia&lt;/strong&gt; (see &lt;a href=&#34;http://www.visa102.ru/eng/contact&#34;&gt;contacts page&lt;/a&gt; for detailed directions on how to reach our office).&lt;/p&gt;
+&lt;p&gt;Or visit us in person at &lt;strong&gt;124 Tsurupy St, Ufa, Bashkortostan (region), Russia&lt;/strong&gt; (see &lt;a href=&#34;http://localhost:1313/eng/contact&#34;&gt;contacts page&lt;/a&gt; for detailed directions on how to reach our office).&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Контакты: телефоны, как найти офис для офиса в Уфе и представительств в районах Башкортостана</title>
-      <link>http://www.visa102.ru/eng/contact/</link>
+      <link>http://localhost:1313/eng/contact/</link>
       <pubDate>Fri, 20 Feb 2015 14:31:56 +0500</pubDate>
       
-      <guid>http://www.visa102.ru/eng/contact/</guid>
+      <guid>http://localhost:1313/eng/contact/</guid>
       <description>
 
 &lt;h3 id=&#34;ufa-visa-legal-language-services:3c4864f00d23f7ea35511ec930ce1d9c&#34;&gt;Ufa-Visa: legal &amp;amp; language services&lt;/h3&gt;
@@ -60,7 +60,7 @@
 &lt;p&gt;&lt;strong&gt;How to reach us:&lt;/strong&gt;&lt;/p&gt;
 
 &lt;div&gt;
-  &lt;img width=&#34;90%&#34; src=&#34;http://www.visa102.ru/img/directions.png&#34;&gt;
+  &lt;img width=&#34;90%&#34; src=&#34;http://localhost:1313/img/directions.png&#34;&gt;
 &lt;/div&gt;
 </description>
     </item>

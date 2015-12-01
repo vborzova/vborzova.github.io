@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Canadas on Уфимский визовый центр Виза-Уфа</title>
-    <link>http://www.visa102.ru/canada/</link>
+    <link>http://localhost:1313/canada/</link>
     <description>Recent content in Canadas on Уфимский визовый центр Виза-Уфа</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     <lastBuildDate>Fri, 20 Feb 2015 14:31:56 +0500</lastBuildDate>
-    <atom:link href="http://www.visa102.ru/canada/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/canada/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Канада: Виза для краткосрочного визита с личными либо деловыми причинами (офис в Уфе)</title>
-      <link>http://www.visa102.ru/canada/visit/</link>
+      <link>http://localhost:1313/canada/visit/</link>
       <pubDate>Fri, 20 Feb 2015 14:31:56 +0500</pubDate>
       
-      <guid>http://www.visa102.ru/canada/visit/</guid>
+      <guid>http://localhost:1313/canada/visit/</guid>
       <description>
 
 &lt;p&gt;Посещение Канады с туристическими целями, по личным либо деловым приглашениям.&lt;/p&gt;
@@ -46,7 +46,7 @@
 &lt;li&gt;Копия аннулированного заграничного паспорта, при наличии шенгенских виз (главная страница+визы)&lt;/li&gt;
 &lt;li&gt;Копия российского паспорта (все страницы с отметками, а также копию стр. 19 (даже если чистая))&lt;/li&gt;
 &lt;li&gt;2 новые фотографии 3,5*4,5 цветные на белом фоне, 80 % лица&lt;/li&gt;
-&lt;li&gt;Заполненный &lt;a href=&#34;http://www.visa102.ru/forms/canada.doc&#34;&gt;опросник&lt;/a&gt;  (все пункты обязательны для заполнения)&lt;/li&gt;
+&lt;li&gt;Заполненный &lt;a href=&#34;http://localhost:1313/forms/canada.doc&#34;&gt;опросник&lt;/a&gt;  (все пункты обязательны для заполнения)&lt;/li&gt;
 &lt;li&gt;Справка с места работы с указанием должности, стажа работы и оклада. Также справка должна содержать фразу о том, что работнику на время поездки в Канаду предоставляется отпуск с сохранением рабочего места/справка с места учебы / пенсионное удостоверение&lt;/li&gt;
 &lt;li&gt;Рекомендательное письмо от работодателя на фирменном бланке, с указанием полного адреса компании, телефона и штамп с гербовой печатью фирмы. Письмо должно включать в себя следующие сведений:
 
@@ -104,10 +104,10 @@
     
     <item>
       <title>Канада: Иммиграция на основе профессии и квалификации (офис в Уфе)</title>
-      <link>http://www.visa102.ru/canada/immigration/</link>
+      <link>http://localhost:1313/canada/immigration/</link>
       <pubDate>Fri, 20 Feb 2015 14:31:56 +0500</pubDate>
       
-      <guid>http://www.visa102.ru/canada/immigration/</guid>
+      <guid>http://localhost:1313/canada/immigration/</guid>
       <description>&lt;p&gt;Через профессиональные программы по иммиграции канадское правительство привлекает иммигрантов, которые, с высокой вероятностью, могут сделать положительный вклад в экономику страны. Цель большинства таких программ - привнести на рынок труда Канады работников в областях, где квалифицированные специалисты в недостатке.&lt;/p&gt;
 
 &lt;p&gt;Требования к кандидатам и условия различных иммиграционных программ сильно разнятся и меняются со временем, в зависимости как от спроса на работников различных профессий, так и от политической и экономической ситуации в стране. Поэтому лучше, когда каждый пакет документов и каждая заявка оформлены в индивидуальном порядке специалистом по иммиграции.&lt;/p&gt;
@@ -121,7 +121,7 @@
 &lt;li&gt;&lt;strong&gt;Quebec Skilled Worker&lt;/strong&gt; - программа иммиграции в Канаду франкоязычной провинции Квебэк (Quebec) работает независимо от федеральных программ по иммиграции&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Provincial Nominee Programs&lt;/strong&gt; - правительство каждой провинции в Канаде имеет право приглашать иммигрантов в свою провинцию исходя из реалий локальной экономической ситуации&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Federal Self-Employed&lt;/strong&gt; - программа иммиграции для выдающихся деятелей культуры, спорта, либо успешных фермеров&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Canadian Experience Class&lt;/strong&gt; - программа иммиграции для людей, проживших и проработавших в Канаде по &lt;a href=&#34;http://www.visa102.ru/canada/work-or-study&#34;&gt;рабочей/студенческой визе&lt;/a&gt; не менее года&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Canadian Experience Class&lt;/strong&gt; - программа иммиграции для людей, проживших и проработавших в Канаде по &lt;a href=&#34;http://localhost:1313/canada/work-or-study&#34;&gt;рабочей/студенческой визе&lt;/a&gt; не менее года&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Чтобы обсудить на какую программу вам лучше подавать документы, свяжитесь с &amp;ldquo;Виза-Уфа&amp;rdquo; по телефону +7(917)3480034 либо посетите офис лично.&lt;/p&gt;
@@ -130,10 +130,10 @@
     
     <item>
       <title>Канада: Иммиграция через воссединение семьи, в том числе по браку (офис в Уфе)</title>
-      <link>http://www.visa102.ru/canada/family/</link>
+      <link>http://localhost:1313/canada/family/</link>
       <pubDate>Fri, 20 Feb 2015 14:31:56 +0500</pubDate>
       
-      <guid>http://www.visa102.ru/canada/family/</guid>
+      <guid>http://localhost:1313/canada/family/</guid>
       <description>
 
 &lt;p&gt;Граждане Канады и лица, имеющие вид на жительство в Канаде имеют право оформить спонсорство на иммиграцию для своих непосредственных членов семьи, включая:&lt;/p&gt;
@@ -196,10 +196,10 @@
     
     <item>
       <title>Канада: Рабочая либо Студенческая Виза (офис в Уфе)</title>
-      <link>http://www.visa102.ru/canada/work-or-study/</link>
+      <link>http://localhost:1313/canada/work-or-study/</link>
       <pubDate>Fri, 20 Feb 2015 14:31:56 +0500</pubDate>
       
-      <guid>http://www.visa102.ru/canada/work-or-study/</guid>
+      <guid>http://localhost:1313/canada/work-or-study/</guid>
       <description>
 
 &lt;p&gt;Виза, позволяющая гражданам России работать либо учиться в Канаде, состоит из двух элементов:&lt;/p&gt;
