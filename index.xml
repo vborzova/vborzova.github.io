@@ -147,6 +147,17 @@
     </item>
     
     <item>
+      <title>Бронирование билетов</title>
+      <link>http://www.visa102.ru/booking/tickets/</link>
+      <pubDate>Fri, 20 Feb 2015 14:31:00 +0000</pubDate>
+      
+      <guid>http://www.visa102.ru/booking/tickets/</guid>
+      <description>&lt;p&gt;&lt;div id=&#34;agentruIframeWrapper&#34;&gt;&lt;/div&gt;
+&lt;script id=&#34;agentruIframeScript&#34; type=&#34;text/javascript&#34; src=&#34;https://www.agent.ru/ru/script/iframe?name=visahundredotwo&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Чехия</title>
       <link>http://www.visa102.ru/countries/czech/</link>
       <pubDate>Fri, 20 Feb 2015 14:31:00 +0000</pubDate>
@@ -567,17 +578,6 @@
 &lt;li&gt;Оплата с банковской карты&lt;/li&gt;
 &lt;li&gt;Оплата через отделение Сбербанка&lt;/li&gt;
 &lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Бронирование билетов</title>
-      <link>http://www.visa102.ru/booking/tickets/</link>
-      <pubDate>Fri, 20 Feb 2015 14:31:56 +0500</pubDate>
-      
-      <guid>http://www.visa102.ru/booking/tickets/</guid>
-      <description>&lt;p&gt;&lt;div id=&#34;agentruIframeWrapper&#34;&gt;&lt;/div&gt;
-&lt;script id=&#34;agentruIframeScript&#34; type=&#34;text/javascript&#34; src=&#34;https://www.agent.ru/ru/script/iframe?name=visahundredotwo&#34;&gt;&lt;/script&gt;&lt;/p&gt;
 </description>
     </item>
     
